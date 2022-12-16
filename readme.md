@@ -1,4 +1,4 @@
-# Изучение метода fetch()
+# Learning the method fetch()
 ![screenshot](./readme-assets/home.png)
 
-Получение постов с открытого API (https://jsonplaceholder.typicode.com/posts) и вывод их в карточки
+Getting posts from an open API (https://jsonplaceholder.typicode.com/posts) and output them to cards
